@@ -1,8 +1,6 @@
 function Header() {
-    return ( <
-        div >
-        Merhaba ben header bileşeniyim <
-        /div>
+    return ( <div >
+        Merhaba ben header bileşeniyim </div>
     )
 }
 
